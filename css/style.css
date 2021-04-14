@@ -1,0 +1,57 @@
+.fun{
+	margin-bottom: 500px;
+}
+
+.picker {
+			border-radius: 5px;
+			width: 36px;
+			height: 36px;
+			cursor: pointer;
+			-webkit-transition: all linear .2s;
+			-moz-transition: all linear .2s;
+			-ms-transition: all linear .2s;
+			-o-transition: all linear .2s;
+			transition: all linear .2s;
+			border: thin solid #eee;
+}
+.picker:hover {
+			transform: scale(1.1);
+}
+.progress-bar {
+    width: 300px;
+    margin: 1.5rem auto;
+    margin-top: 100px;
+    background-color: #ddd;
+    border-radius: 6px;
+    height: 24px;
+}
+.progress {
+    width: 0;
+    border-radius: 6px;
+    height: 24px;
+    text-align: right;
+    position: relative;
+}
+.progress span {
+    font-size: 14px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    color: white;
+
+}
+.f-1{
+	margin:50px; 
+}
+ .rotate {
+      height: 250px;
+      width: 250px;
+      margin:0 auto;
+      line-height: 100px;
+      background: lightcoral;
+      color: #fff;
+      text-align: center;
+      font-weight: 100;
+}
+
